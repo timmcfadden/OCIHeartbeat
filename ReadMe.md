@@ -2,8 +2,8 @@
 
 This guide explains how to use the example oci_vm_alarms.py script to automatically create heartbeat alarms for your virtual machines in Oracle Cloud Infrastructure.
 
-**Download**: https://gist.githubusercontent.com/timmcfadden/a5c97eaee35830487153d3213dd0fdc4/raw/1844c9e24fdec6ca5ab8f5e2605d421726fa2f40/oci_vm_alarms.py
-
+**Download**: [https://gist.githubusercontent.com/timmcfadden/a5c97eaee35830487153d3213dd0fdc4/raw/1844c9e24fdec6ca5ab8f5e2605d421726fa2f40/oci_vm_alarms.py
+](https://github.com/timmcfadden/OCIHeartbeat/releases/download/Release/oci_vm_alarms.py)
 ![image.png](Images/image.png)
 ![image2.png](Images/image2.png)
 ![image3.png](Images/image3.png)
